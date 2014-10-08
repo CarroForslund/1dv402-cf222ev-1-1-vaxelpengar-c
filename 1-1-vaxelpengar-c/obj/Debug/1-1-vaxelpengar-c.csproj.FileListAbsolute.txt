@@ -1,0 +1,8 @@
+P:\inledande-programmering-med-csharp\1-1-vaxelpengar-c\1-1-vaxelpengar-c\bin\Debug\1-1-vaxelpengar-c.exe.config
+P:\inledande-programmering-med-csharp\1-1-vaxelpengar-c\1-1-vaxelpengar-c\bin\Debug\1-1-vaxelpengar-c.exe
+P:\inledande-programmering-med-csharp\1-1-vaxelpengar-c\1-1-vaxelpengar-c\bin\Debug\1-1-vaxelpengar-c.pdb
+P:\inledande-programmering-med-csharp\1-1-vaxelpengar-c\1-1-vaxelpengar-c\obj\Debug\1-1-vaxelpengar-c.csprojResolveAssemblyReference.cache
+P:\inledande-programmering-med-csharp\1-1-vaxelpengar-c\1-1-vaxelpengar-c\obj\Debug\_1_1_vaxelpengar_c.Properties.Strings.resources
+P:\inledande-programmering-med-csharp\1-1-vaxelpengar-c\1-1-vaxelpengar-c\obj\Debug\1-1-vaxelpengar-c.csproj.GenerateResource.Cache
+P:\inledande-programmering-med-csharp\1-1-vaxelpengar-c\1-1-vaxelpengar-c\obj\Debug\1-1-vaxelpengar-c.exe
+P:\inledande-programmering-med-csharp\1-1-vaxelpengar-c\1-1-vaxelpengar-c\obj\Debug\1-1-vaxelpengar-c.pdb

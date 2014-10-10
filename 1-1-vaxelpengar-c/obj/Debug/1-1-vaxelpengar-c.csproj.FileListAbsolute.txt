@@ -6,3 +6,6 @@ P:\inledande-programmering-med-csharp\1-1-vaxelpengar-c\1-1-vaxelpengar-c\obj\De
 P:\inledande-programmering-med-csharp\1-1-vaxelpengar-c\1-1-vaxelpengar-c\obj\Debug\1-1-vaxelpengar-c.csproj.GenerateResource.Cache
 P:\inledande-programmering-med-csharp\1-1-vaxelpengar-c\1-1-vaxelpengar-c\obj\Debug\1-1-vaxelpengar-c.exe
 P:\inledande-programmering-med-csharp\1-1-vaxelpengar-c\1-1-vaxelpengar-c\obj\Debug\1-1-vaxelpengar-c.pdb
+C:\Users\Caroline Forslund\Documents\Visual Studio 2013\1dv402-cf222ev-1-1-vaxelpengar-c\1-1-vaxelpengar-c\bin\Debug\1-1-vaxelpengar-c.exe.config
+C:\Users\Caroline Forslund\Documents\Visual Studio 2013\1dv402-cf222ev-1-1-vaxelpengar-c\1-1-vaxelpengar-c\obj\Debug\1-1-vaxelpengar-c.exe
+C:\Users\Caroline Forslund\Documents\Visual Studio 2013\1dv402-cf222ev-1-1-vaxelpengar-c\1-1-vaxelpengar-c\obj\Debug\1-1-vaxelpengar-c.pdb
